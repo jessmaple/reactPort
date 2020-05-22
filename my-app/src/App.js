@@ -1,12 +1,19 @@
 import React from 'react';
-import './App.css';
-
+import './style.css';
+import Nav from "./components/Nav"
+// import About from "./components/About"
+// import Portfolio from "./components/Portfolio/Portfolio"
+// import Contact from './components/Contact';
+// import Footer from "./components/Footer"
 function App() {
   return (
     <div>
-      <h1>react</h1>
+      {/* <Nav />
+      <About />
+      <Portfolio />
+      <Contact />
+      <Footer /> */}
     </div>
   );
 }
-
 export default App;
